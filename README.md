@@ -5,5 +5,7 @@ Please open an issue using the issue template file and have a look on the first 
 
 
 inspired from 
-https://github.com/rioyokotalab/hmatrix-summary
+https://github.com/rioyokotalab/hmatrix-summary (it can be shorter !!)
+
+Of course you do it in private for sharing the pdf, and for all your important papers, right?
 
