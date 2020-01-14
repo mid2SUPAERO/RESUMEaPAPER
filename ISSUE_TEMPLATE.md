@@ -4,7 +4,7 @@ A single sentence description of what this paper achieves.
 
 ### Link
 
-### Author and organization
+### Authors and organization
 
 ### Year/publication/conference/workshop
 
@@ -14,7 +14,7 @@ A single sentence description of what this paper achieves.
 
 ## Short description of method used
 
-## Experiment and result
+## Experiments and results
 
 Be as descriptive as possible. Post images, graphs and other good visual aids.
 
