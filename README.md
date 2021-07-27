@@ -1,4 +1,8 @@
 # Read and RESUME a PAPER
+
+How to read a paper
+http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
+
 How to resume one important scientific paper for you PhD thesis
 
 Please open an issue using the issue template file and have a look on the first issue to see a perfect example (levels of details, figures etc...)
